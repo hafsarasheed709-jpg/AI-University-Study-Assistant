@@ -1,0 +1,6 @@
+{
+  "name": "AI University Study Assistant",
+  "description": "An intelligent academic assistant with authentic Gemini File Search RAG for university lecture notes, textbooks, and study materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
